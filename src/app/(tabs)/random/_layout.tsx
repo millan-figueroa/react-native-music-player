@@ -2,7 +2,7 @@ import { defaultStyles } from '@/styles'
 import { Stack } from 'expo-router'
 import { View } from 'react-native'
 
-const ArtistsScreenLayout = () => {
+const RandomScreenLayout = () => {
 	return (
 		<View style={defaultStyles.container}>
 			<Stack>
@@ -10,7 +10,7 @@ const ArtistsScreenLayout = () => {
 					name="index"
 					options={{
 						
-						headerTitle: 'Artists',
+						headerTitle: 'Random',
 					}}
 				/>
 			</Stack>
@@ -18,4 +18,4 @@ const ArtistsScreenLayout = () => {
 	)
 }
 
-export default ArtistsScreenLayout
+export default RandomScreenLayout
