@@ -4,7 +4,7 @@
     {
       "url": "https://audio.jukehost.co.uk/6xg2A561pkLoE9TGw526JQtcMIapsq1P",
       "title": "Geminasm",
-      "artwork": "https://f4.bcbits.com/img/a3736661212_65",
+      "artwork": "https://unsplash.com/photos/the-sun-is-setting-over-a-city-skyline-JzaNH4aY4tE",
       "rating": 1,
       "playlist": ["Reggeton"]
     },
@@ -34,9 +34,15 @@
     },
     {
       "url": "https://audio.jukehost.co.uk/pZFGZjCi00TlnJDPDzfX5slT2WeN3eFp",
-      "title": "U Right",
+      "title": "URight",
       "artwork": "https://unsplash.com/photos/waves-of-body-of-water-splashing-on-sand-mBQIfKlvowM",
       "playlist": ["Sexy"]
+    },
+    {
+      "url": "https://audio.jukehost.co.uk/OfXlSUbDKbCNszKP3wkUsc35U0J5upZo",
+      "title": "URight",
+      "artwork": "https://unsplash.com/photos/the-sun-is-setting-over-a-city-skyline-JzaNH4aY4tE",
+      "playlist": ["Reggeton"]
     }
   ]
   
