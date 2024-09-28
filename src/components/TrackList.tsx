@@ -1,8 +1,9 @@
 import library from "@/assets/data/library.json"
-import { FlatList } from 'react-native'
+import { FlatList, FlatListProps } from 'react-native'
 import { TrackListItem } from './TrackListItem'
 
-export const TrackList = () => {
+export type TrackListProps = Partial<FlatListProps<unknown>>
+export const TrackList = ({ ...flatListProps }: TrackListProps) => {
     return (
         <FlatList 
             data={library} 

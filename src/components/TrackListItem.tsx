@@ -68,6 +68,11 @@ const styles = StyleSheet.create({
 		color: colors.textMuted,
 		fontSize: 14,
 		marginTop: 4,
+	},
+    trackItemContainer: {
+		flexDirection: 'row',
+		columnGap: 14,
+		alignItems: 'center',
+		paddingRight: 20,
 	}
-
 })

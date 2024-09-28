@@ -13,7 +13,7 @@
 		"allowSyntheticDefaultImports": true,
 		"skipLibCheck": true,
 		"resolveJsonModule": true,
-		"baseUrl": "./src",
+		"baseUrl": ".",
 		"paths": {
 			"@/*": ["*"] // allows you to use `@` as an alias for the `src` folder
 		}
